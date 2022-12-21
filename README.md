@@ -27,4 +27,4 @@ But enough of that, lets have a smidge of fun here! Below is a list of things i 
 * Learning New Things Reguarding Things I'm Passionate About
   * Either Electronics, Science, Video Games, etc  
 
-  Thanks for checking out my about-me repo! I hope i did not waste your time and that you learned somthing new about me!
+Thanks for checking out my about-me repo! I hope i did not waste your time and that you learned somthing new about me!
